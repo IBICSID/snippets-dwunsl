@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://IBICSID.github.io/snippets-dwunsl/sitemap.xml
